@@ -10,6 +10,7 @@ export function Navbar({ isDark, toggleTheme }: NavbarProps) {
   const navLinks = [
     { name: 'About', href: '#about' },
     { name: 'Projects', href: '#projects' },
+    { name: 'Resume', href: '#resume' },
     { name: 'Experience', href: '#experience' },
     { name: 'Skills', href: '#skills' },
     { name: 'Contact', href: '#contact' },
